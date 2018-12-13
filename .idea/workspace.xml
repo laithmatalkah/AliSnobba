@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/characterService" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/game" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/gamestate" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/move" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/sender" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/springboot-demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/di_container" value="PREVIEW" />
+        <entry key="$USER_HOME$/gilded_rose_java" value="PREVIEW" />
+        <entry key="$USER_HOME$/gmdb" value="PREVIEW" />
+        <entry key="$USER_HOME$/gradle-getting-started" value="PREVIEW" />
+        <entry key="$USER_HOME$/gs-actuator-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/gs-routing-and-filtering" value="PREVIEW" />
+        <entry key="$USER_HOME$/ms-proj1" value="PREVIEW" />
+        <entry key="$USER_HOME$/myapp" value="PREVIEW" />
+        <entry key="$USER_HOME$/tdd_shopping_cart_java" value="PREVIEW" />
+        <entry key="$USER_HOME$/xp_java_problem_set_di_with_reflection" value="PREVIEW" />
+        <entry key="$USER_HOME$/xp_java_problem_set_mocking" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1459" />
+    <option name="y" value="-472" />
+    <option name="width" value="1921" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
